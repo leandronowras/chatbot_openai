@@ -1,0 +1,38 @@
+Column,Name,Units,Balance,Intrinio ID
+netincome,Consolidated Net Income / (Loss),usd,credit,93
+netincomediscontinued,Net Income / (Loss) Discontinued Operations,usd,credit,94
+netincomecontinuing,Net Income / (Loss) Continuing Operations,usd,credit,95
+depreciationexpense,Depreciation Expense,usd,debit,96
+amortizationexpense,Amortization Expense,usd,debit,97
+noncashadjustmentstonetincome,Non-Cash Adjustments To Reconcile Net Income,usd,debit,99
+increasedecreaseinoperatingcapital,"Changes in Operating Assets and Liabilities, net",usd,debit,100
+netcashfromcontinuingoperatingactivities,Net Cash From Continuing Operating Activities,usd,debit,101
+netcashfromdiscontinuedoperatingactivities,Net Cash From Discontinued Operating Activities,usd,debit,102
+netcashfromoperatingactivities,Net Cash From Operating Activities,usd,debit,103
+purchaseofplantpropertyandequipment,"Purchase of Property, Plant & Equipment",usd,debit,104
+acquisitions,Acquisitions,usd,debit,105
+purchaseofinvestments,Purchase of Investments,usd,debit,106
+saleofplantpropertyandequipment,"Sale of Property, Plant & Equipment",usd,debit,107
+divestitures,Divestitures,usd,debit,108
+saleofinvestments,Sale and/or Maturity of Investments,usd,debit,109
+otherinvestingactivitiesnet,"Other Investing Activities, net",usd,debit,110
+netcashfromcontinuinginvestingactivities,Net Cash From Continuing Investing Activities,usd,debit,111
+netcashfromdiscontinuedinvestingactivities,Net Cash From Discontinued Investing Activities,usd,debit,112
+netcashfrominvestingactivities,Net Cash From Investing Activities,usd,debit,113
+repaymentofdebt,Repayment of Debt,usd,debit,114
+repurchaseofpreferredequity,Repurchase of Preferred Equity,usd,debit,115
+repurchaseofcommonequity,Repurchase of Common Equity,usd,debit,116
+paymentofdividends,Payment of Dividends,usd,debit,117
+issuanceofdebt,Issuance of Debt,usd,debit,118
+issuanceofpreferredequity,Issuance of Preferred Equity,usd,debit,119
+issuanceofcommonequity,Issuance of Common Equity,usd,debit,120
+otherfinancingactivitiesnet,"Other Financing Activities, net",usd,debit,121
+netcashfromcontinuingfinancingactivities,Net Cash From Continuing Financing Activities,usd,debit,122
+netcashfromdiscontinuedfinancingactivities,Net Cash From Discontinued Financing Activities,usd,debit,123
+netcashfromfinancingactivities,Net Cash From Financing Activities,usd,debit,124
+effectofexchangeratechanges,Effect of Exchange Rate Changes,usd,debit,125
+othernetchangesincash,Other Net Changes in Cash,usd,debit,126
+netchangeincash,Net Change in Cash & Equivalents,usd,debit,127
+cashinterestpaid,Cash Interest Paid,usd,,128
+cashinterestreceived,Cash Interest Received,usd,,129
+cashincometaxespaid,Cash Income Taxes Paid,usd,,130

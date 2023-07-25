@@ -1,0 +1,60 @@
+Column,Name,Units,Balance,Intrinio ID
+cashandequivalents,Cash & Equivalents,usd,debit,45
+restrictedcash,Restricted Cash,usd,debit,46
+shortterminvestments,Short-Term Investments,usd,debit,47
+notereceivable,Note & Lease Receivable,usd,debit,48
+accountsreceivable,Accounts Receivable,usd,debit,49
+netinventory,"Inventories, net",usd,debit,50
+prepaidexpenses,Prepaid Expenses,usd,debit,51
+currentdeferredtaxassets,Current Deferred & Refundable Income Taxes,usd,debit,320
+othercurrentassets,Other Current Assets,usd,debit,52
+othercurrentnonoperatingassets,Other Current Nonoperating Assets,usd,debit,53
+totalcurrentassets,Total Current Assets,usd,debit,54
+grossppe,"Plant, Property & Equipment, gross",usd,debit,55
+accumulateddepreciation,Accumulated Depreciation,usd,credit,56
+netppe,"Plant, Property, & Equipment, net",usd,debit,57
+longterminvestments,Long-Term Investments,usd,debit,58
+noncurrentnotereceivables,Noncurrent Note & Lease Receivables,usd,debit,321
+goodwill,Goodwill,usd,debit,59
+intangibleassets,Intangible Assets,usd,debit,60
+noncurrentdeferredtaxassets,Noncurrent Deferred & Refundable Income Taxes,usd,debit,322
+employeebenefitassets,Employee Benefit Assets,usd,debit,323
+othernoncurrentassets,Other Noncurrent Operating Assets,usd,debit,61
+othernoncurrentnonoperatingassets,Other Noncurrent Nonoperating Assets,usd,debit,62
+totalnoncurrentassets,Total Noncurrent Assets,usd,debit,63
+totalassets,Total Assets,usd,debit,64
+shorttermdebt,Short-Term Debt,usd,credit,65
+accountspayable,Accounts Payable,usd,credit,66
+accruedexpenses,Accrued Expenses,usd,credit,67
+customerdeposits,Customer Deposits,usd,credit,324
+dividendspayable,Dividends Payable,usd,credit,325
+currentdeferredrevenue,Current Deferred Revenue,usd,credit,326
+currentdeferredtaxliabilities,Current Deferred & Payable Income Tax Liabilities,usd,credit,327
+currentemployeebenefitliabilities,Current Employee Benefit Liabilities,usd,credit,328
+othertaxespayable,Other Taxes Payable,usd,credit,329
+othercurrentliabilities,Other Current Liabilities,usd,credit,68
+othercurrentnonoperatingliabilities,Other Current Nonoperating Liabilities,usd,credit,69
+totalcurrentliabilities,Total Current Liabilities,usd,credit,70
+longtermdebt,Long-Term Debt,usd,credit,71
+capitalleaseobligations,Capital Lease Obligations,usd,credit,72
+assetretirementandlitigationobligation,Asset Retirement Reserve & Litigation Obligation,usd,credit,330
+noncurrentdeferredrevenue,Noncurrent Deferred Revenue,usd,credit,331
+noncurrentdeferredtaxliabilities,Noncurrent Deferred & Payable Income Tax Liabilities,usd,credit,332
+noncurrentemployeebenefitliabilities,Noncurrent Employee Benefit Liabilities,usd,credit,333
+othernoncurrentliabilities,Other Noncurrent Operating Liabilities,usd,credit,73
+othernoncurrentnonoperatingliabilities,Other Noncurrent Nonoperating Liabilities,usd,credit,74
+totalnoncurrentliabilities,Total Noncurrent Liabilities,usd,credit,75
+totalliabilities,Total Liabilities,usd,credit,76
+commitmentsandcontingencies,Commitments & Contingencies,usd,credit,77
+redeemablenoncontrollinginterest,Redeemable Noncontrolling Interest,usd,credit,78
+totalpreferredequity,Preferred Stock,usd,credit,79
+commonequity,Common Stock,usd,credit,80
+retainedearnings,Retained Earnings,usd,credit,81
+treasurystock,Treasury Stock,usd,credit,82
+aoci,Accumulated Other Comprehensive Income / (Loss),usd,credit,83
+otherequity,Other Equity Adjustments,usd,credit,84
+totalcommonequity,Total Common Equity,usd,credit,85
+totalequity,Total Preferred & Common Equity,usd,credit,86
+noncontrollinginterests,Noncontrolling Interest,usd,credit,87
+totalequityandnoncontrollinginterests,Total Equity & Noncontrolling Interests,usd,credit,88
+totalliabilitiesandequity,Total Liabilities & Shareholders' Equity,usd,credit,89

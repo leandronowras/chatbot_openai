@@ -1,0 +1,43 @@
+Column,Name,Units,Balance,Intrinio ID
+operatingrevenue,Operating Revenue,usd,credit,1
+otherrevenue,Other Revenue,usd,credit,2
+totalrevenue,Total Revenue,usd,credit,3
+operatingcostofrevenue,Operating Cost of Revenue,usd,debit,4
+othercostofrevenue,Other Cost of Revenue,usd,debit,5
+totalcostofrevenue,Total Cost of Revenue,usd,debit,6
+totalgrossprofit,Total Gross Profit,usd,credit,7
+sgaexpense,"Selling, General & Admin Expense",usd,debit,8
+marketingexpense,Marketing Expense,usd,debit,9
+rdexpense,Research & Development Expense,usd,debit,10
+explorationexpense,Exploration Expense,usd,debit,11
+depreciationexpense,Depreciation Expense,usd,debit,12
+amortizationexpense,Amortization Expense,usd,debit,13
+depletionexpense,Depletion Expense,usd,debit,14
+otheroperatingexpenses,Other Operating Expenses / (Income),usd,debit,15
+impairmentexpense,Impairment Charge,usd,debit,16
+restructuringcharge,Restructuring Charge,usd,debit,17
+otherspecialcharges,Other Special Charges / (Income),usd,debit,18
+totaloperatingexpenses,Total Operating Expenses,usd,debit,19
+totalcostsandexpenses,Total Costs & Expenses,usd,debit,6059
+totaloperatingincome,Total Operating Income,usd,credit,20
+totalinterestexpense,Interest Expense,usd,debit,21
+totalinterestincome,Interest & Investment Income,usd,credit,22
+otherincome,"Other Income / (Expense), net",usd,credit,23
+totalotherincome,"Total Other Income / (Expense), net",usd,credit,24
+totalpretaxincome,Total Pre-Tax Income ,usd,credit,25
+incometaxexpense,Income Tax Expense,usd,debit,26
+othergains,"Other Gains / (Losses), net",usd,credit,27
+netincomecontinuing,Net Income / (Loss) Continuing Operations,usd,credit,28
+netincomediscontinued,Net Income / (Loss) Discontinued Operations,usd,credit,29
+extraordinaryincome,"Extraordinary Income / (Loss), net",usd,credit,30
+otheradjustmentstoconsolidatednetincome,Other Adjustments to Consolidated Net Income / (Loss),usd,credit,31
+netincome,Consolidated Net Income / (Loss),usd,credit,32
+preferreddividends,Preferred Stock Dividends Declared,usd,debit,33
+netincometononcontrollinginterest,Net Income / (Loss) Attributable to Noncontrolling Interest,usd,debit,34
+otheradjustmentstonetincometocommon,Other Adjustments to Net Income / (Loss) Attributable to Common Shareholders),usd,debit,35
+netincometocommon,Net Income / (Loss) Attributable to Common Shareholders,usd,credit,36
+weightedavebasicsharesos,Weighted Average Basic Shares Outstanding,shares,,37
+basiceps,Basic Earnings per Share,usdpershare,,38
+weightedavedilutedsharesos,Weighted Average Diluted Shares Outstanding,shares,,39
+dilutedeps,Diluted Earnings per Share,usdpershare,,40
+cashdividendspershare,Cash Dividends to Common per Share,usdpershare,,43

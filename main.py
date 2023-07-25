@@ -3,13 +3,13 @@ import pandas as pd
 import re
 
 # OpenAi key
-# openai.api_key = "YOUR-API-KEY"
+# openai.api_key = "YOUR-KEY"
 
 # load data
-balance_sheet_statement = pd.read_csv("./chatbot-task/data/US_INDU_BALANCE_SHEET_STATEMENT.csv")
-calculations = pd.read_csv("./chatbot-task/data/US_INDU_CALCULATIONS.csv")
-cash_flow_statement = pd.read_csv("./chatbot-task/data/US_INDU_CASH_FLOW_STATEMENT.csv")
-cash_income_statement = pd.read_csv("./chatbot-task/data/US_INDU_INCOME_STATEMENT.csv")
+balance_sheet_statement = pd.read_csv("./data/US_INDU_BALANCE_SHEET_STATEMENT.csv")
+calculations = pd.read_csv("./data/US_INDU_CALCULATIONS.csv")
+cash_flow_statement = pd.read_csv("./data/US_INDU_CASH_FLOW_STATEMENT.csv")
+cash_income_statement = pd.read_csv("./data/US_INDU_INCOME_STATEMENT.csv")
 
 # chatgpt persona
 def get_assistent_profile():

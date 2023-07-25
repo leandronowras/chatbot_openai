@@ -1,0 +1,129 @@
+Column,Name,Units,Balance,Intrinio ID
+revenuegrowth,Revenue Growth,percentage,,286
+nopatmargin,NOPAT Margin,percentage,,288
+investedcapital,Invested Capital,usd,,289
+investedcapitalturnover,Invested Capital Turnover,float,,290
+nopat,Net Operating Profit after Tax (NOPAT),usd,,287
+investedcapitalincreasedecrease,Increase / (Decrease) in Invested Capital,usd,,291
+freecashflow,Free Cash Flow to Firm (FCFF),usd,,292
+debttoebitda,Debt to EBITDA,float,,492
+netnonopex,Net Nonoperating Expense (NNE),usd,,400
+netnonopobligations,Net Nonoperating Obligations (NNO),usd,,401
+ebit,Earnings before Interest and Taxes (EBIT),usd,,402
+depreciationandamortization,Total Depreciation and Amortization (D&A),usd,,403
+ebitda,"Earnings before Interest, Taxes, Depreciation and Amortization (EBITDA)",usd,,404
+capex,Capital Expenditures (CapEx),usd,,405
+dfcfnwc,"Debt-free, Cash-free Net Working Capital (DFCFNWC)",usd,,406
+dfnwc,Debt-free Net Working Capital (DFNWC),usd,,407
+nwc,Net Working Capital (NWC),usd,,408
+debt,Total Debt,usd,,409
+ltdebtandcapleases,Total Long-Term Debt,usd,,410
+netdebt,Net Debt,usd,,411
+totalcapital,Total Capital,usd,,412
+bookvaluepershare,Book Value per Share,usdpershare,,413
+tangbookvaluepershare,Tangible Book Value per Share,usdpershare,,414
+marketcap,Market Capitalization,usd,,415
+enterprisevalue,Enterprise Value (EV),usd,,416
+pricetobook,Price to Book Value (P/BV),multiple,,417
+pricetotangiblebook,Price to Tangible Book Value (P/TBV),multiple,,418
+pricetorevenue,Price to Revenue (P/Rev),multiple,,419
+pricetoearnings,Price to Earnings (P/E),multiple,,420
+dividendyield,Dividend Yield,percentage,,421
+earningsyield,Earnings Yield,percentage,,422
+evtoinvestedcapital,Enterprise Value to Invested Capital (EV/IC),multiple,,423
+evtorevenue,Enterprise Value to Revenue (EV/Rev),multiple,,424
+evtoebitda,Enterprise Value to EBITDA (EV/EBITDA),multiple,,425
+evtoebit,Enterprise Value to EBIT (EV/EBIT),multiple,,426
+evtonopat,Enterprise Value to NOPAT (EV/NOPAT),multiple,,427
+evtoocf,Enterprise Value to Operating Cash Flow (EV/OCF),multiple,,428
+evtofcff,Enterprise Value to Free Cash Flow (EV/FCFF),multiple,,429
+ebitdagrowth,EBITDA Growth,percentage,,430
+ebitgrowth,EBIT Growth,percentage,,431
+nopatgrowth,NOPAT Growth,percentage,,432
+netincomegrowth,Net Income Growth,percentage,,433
+epsgrowth,EPS Growth,percentage,,434
+ocfgrowth,Operating Cash Flow Growth,percentage,,435
+fcffgrowth,Free Cash Flow Firm Growth,percentage,,436
+investedcapitalgrowth,Invested Capital Growth,percentage,,437
+revenueqoqgrowth,Revenue Q/Q Growth,percentage,,438
+ebitdaqoqgrowth,EBITDA Q/Q Growth,percentage,,439
+ebitqoqgrowth,EBIT Q/Q Growth,percentage,,440
+nopatqoqgrowth,NOPAT Q/Q Growth,percentage,,441
+epsqoqgrowth,EPS Q/Q Growth,percentage,,443
+ocfqoqgrowth,Operating Cash Flow Q/Q Growth,percentage,,444
+fcffqoqgrowth,Free Cash Flow Firm Q/Q Growth,percentage,,445
+investedcapitalqoqgrowth,Invested Capital Q/Q Growth,percentage,,446
+grossmargin,Gross Margin,percentage,,447
+operatingmargin,Operating Margin,percentage,,449
+ebitmargin,EBIT Margin,percentage,,450
+profitmargin,Profit (Net Income) Margin,percentage,,451
+costofrevtorevenue,Cost of Revenue to Revenue,percentage,,452
+sgaextorevenue,SG&A Expenses to Revenue,percentage,,453
+rdextorevenue,R&D to Revenue,percentage,,454
+opextorevenue,Operating Expenses to Revenue,percentage,,455
+taxburdenpct,Tax Burden Percent,percentage,,456
+interestburdenpct,Interest Burden Percent,percentage,,457
+efftaxrate,Effective Tax Rate,percentage,,458
+assetturnover,Asset Turnover,float,,459
+arturnover,Accounts Receivable Turnover,float,,460
+invturnover,Inventory Turnover,float,,461
+faturnover,Fixed Asset Turnover,float,,462
+apturnover,Accounts Payable Turnover,float,,463
+dso,Days Sales Outstanding (DSO),days,,464
+dio,Days Inventory Outstanding (DIO),days,,465
+dpo,Days Payable Outstanding (DPO),days,,466
+ccc,Cash Conversion Cycle (CCC),days,,467
+finleverage,Financial Leverage,float,,468
+leverageratio,Leverage Ratio,float,,469
+compoundleveragefactor,Compound Leverage Factor,float,,470
+ltdebttoequity,Long-Term Debt to Equity,float,,471
+roic,Return on Invested Capital (ROIC),percentage,,473
+nnep,Net Nonoperating Expense Percent (NNEP),percentage,,474
+roicnnepspread,ROIC Less NNEP Spread (ROIC-NNEP),percentage,,475
+rnnoa,Return on Net Nonoperating Assets (RNNOA),percentage,,476
+roe,Return on Equity (ROE),percentage,,477
+croic,Cash Return on Invested Capital (CROIC),percentage,,478
+oroa,Operating Return on Assets (OROA),percentage,,479
+roa,Return on Assets (ROA),percentage,,480
+ebitdamargin,EBITDA Margin,percentage,,448
+roce,Return on Common Equity (ROCE),percentage,,482
+divpayoutratio,Dividend Payout Ratio,percentage,,483
+augmentedpayoutratio,Augmented Payout Ratio,percentage,,484
+ocftocapex,Operating Cash Flow to CapEx,percentage,,485
+stdebttocap,Short-Term Debt to Total Capital,percentage,,486
+ltdebttocap,Long-Term Debt to Total Capital,percentage,,487
+debttototalcapital,Debt to Total Capital,percentage,,488
+preferredtocap,Preferred Equity to Total Capital,percentage,,489
+noncontrolinttocap,Noncontrolling Interests to Total Capital,percentage,,490
+commontocap,Common Equity to Total Capital,percentage,,491
+debttoequity,Debt to Equity,float,,472
+netdebttoebitda,Net Debt to EBITDA,float,,493
+ltdebttoebitda,Long-Term Debt to EBITDA,float,,494
+debttonopat,Debt to NOPAT,float,,495
+netdebttonopat,Net Debt to NOPAT,float,,496
+ltdebttonopat,Long-Term Debt to NOPAT,float,,497
+altmanzscore,Altman Z-Score,float,,498
+ebittointerestex,EBIT to Interest Expense,float,,499
+nopattointerestex,NOPAT to Interest Expense,float,,500
+ebitlesscapextointerestex,EBIT Less CapEx to Interest Expense,float,,501
+nopatlesscapextointex,NOPAT Less CapEx to Interest Expense,float,,502
+ocftointerestex,Operating Cash Flow to Interest Expense,float,,503
+ocflesscapextointerestex,Operating Cash Flow Less CapEx to Interest Expense,float,,504
+fcfftointerestex,Free Cash Flow to Firm to Interest Expense,float,,505
+currentratio,Current Ratio,float,,506
+quickratio,Quick Ratio,float,,507
+dfcfnwctorev,"Debt-free, Cash-free Net Working Capital to Revenue",percentage,,508
+dfnwctorev,Debt-free Net Working Capital to Revenue,percentage,,509
+nwctorev,Net Working Capital to Revenue,percentage,,510
+netincomeqoqgrowth,Net Income Q/Q Growth,percentage,,442
+noncontrollinginterestsharingratio,Noncontrolling Interest Sharing Ratio,percentage,,481
+normalizednopat,Normalized Net Operating Profit after Tax (NOPAT),usd,,521
+normalizednopatmargin,Normalized NOPAT Margin,percentage,,522
+pretaxincomemargin,Pre Tax Income Margin,percentage,,645
+adjweightedavebasicdilutedsharesos,Adjusted Weighted Average Basic & Diluted Shares Outstanding,shares,,5446
+adjbasicdilutedeps,Adjusted Basic & Diluted Earnings per Share,usdpershare,,5447
+adjweightedavebasicsharesos,Adjusted Weighted Average Basic Shares Outstanding,shares,,5442
+adjbasiceps,Adjusted Basic Earnings per Share,usdpershare,,5443
+adjweightedavedilutedsharesos,Adjusted Weighted Average Diluted Shares Outstanding,shares,,5444
+adjdilutedeps,Adjusted Diluted Earnings per Share,usdpershare,,5445
+roe_simple,Return on Equity Simple (ROE_SIMPLE),percentage,,5597
