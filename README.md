@@ -9,7 +9,7 @@ Before running the chatbot, ensure you have the necessary libraries installed:
 ## Usage
 1. Install the required libraries using pip:
 ```bash
-pip install pandas opena
+pip install pandas openai
 ```
 
 2. Set up your OpenAI API key inside main.py
